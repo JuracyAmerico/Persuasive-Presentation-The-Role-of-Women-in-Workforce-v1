@@ -1,0 +1,156 @@
+[
+  {
+    "objectID": "Persuasive Presentation - The Role of Women in the Workforce in Canada v1 copy.html#theme-title1",
+    "href": "Persuasive Presentation - The Role of Women in the Workforce in Canada v1 copy.html#theme-title1",
+    "title": "",
+    "section": ".theme-title1",
+    "text": ".theme-title1\nquarto-revealjs-earth"
+  },
+  {
+    "objectID": "Persuasive Presentation - The Role of Women in the Workforce in Canada v1 copy.html#theme-title2",
+    "href": "Persuasive Presentation - The Role of Women in the Workforce in Canada v1 copy.html#theme-title2",
+    "title": "",
+    "section": ".theme-title2",
+    "text": ".theme-title2\nAnother title theme"
+  },
+  {
+    "objectID": "Persuasive Presentation - The Role of Women in the Workforce in Canada v1 copy.html#theme-section1",
+    "href": "Persuasive Presentation - The Role of Women in the Workforce in Canada v1 copy.html#theme-section1",
+    "title": "",
+    "section": ".theme-section1",
+    "text": ".theme-section1\nText and code example\nYou are able to include text and code, and the width of each should fit\n\nlm(mpg~disp, data = mtcars)\n\n\nCall:\nlm(formula = mpg ~ disp, data = mtcars)\n\nCoefficients:\n(Intercept)         disp  \n   29.59985     -0.04122"
+  },
+  {
+    "objectID": "Persuasive Presentation - The Role of Women in the Workforce in Canada v1 copy.html#theme-section2",
+    "href": "Persuasive Presentation - The Role of Women in the Workforce in Canada v1 copy.html#theme-section2",
+    "title": "",
+    "section": ".theme-section2",
+    "text": ".theme-section2\nSubtitle\nQuarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see https://quarto.org/docs/presentations/."
+  },
+  {
+    "objectID": "Persuasive Presentation - The Role of Women in the Workforce in Canada v1 copy.html#theme-section3",
+    "href": "Persuasive Presentation - The Role of Women in the Workforce in Canada v1 copy.html#theme-section3",
+    "title": "",
+    "section": ".theme-section3",
+    "text": ".theme-section3\nAnother subtitle"
+  },
+  {
+    "objectID": "Persuasive Presentation - The Role of Women in the Workforce in Canada v1 copy.html#theme-slide1",
+    "href": "Persuasive Presentation - The Role of Women in the Workforce in Canada v1 copy.html#theme-slide1",
+    "title": "",
+    "section": ".theme-slide1",
+    "text": ".theme-slide1\nNormal slide\nQuarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see https://quarto.org/docs/presentations/."
+  },
+  {
+    "objectID": "Persuasive Presentation - The Role of Women in the Workforce in Canada v1 copy.html#theme-slide2",
+    "href": "Persuasive Presentation - The Role of Women in the Workforce in Canada v1 copy.html#theme-slide2",
+    "title": "",
+    "section": ".theme-slide2",
+    "text": ".theme-slide2\nQuarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see https://quarto.org/docs/presentations/."
+  },
+  {
+    "objectID": "Persuasive Presentation - The Role of Women in the Workforce in Canada v1 copy.html#theme-slide3",
+    "href": "Persuasive Presentation - The Role of Women in the Workforce in Canada v1 copy.html#theme-slide3",
+    "title": "",
+    "section": ".theme-slide3",
+    "text": ".theme-slide3\nQuarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see https://quarto.org/docs/presentations/."
+  },
+  {
+    "objectID": "Persuasive Presentation - The Role of Women in the Workforce in Canada v1 copy.html#theme-slide4",
+    "href": "Persuasive Presentation - The Role of Women in the Workforce in Canada v1 copy.html#theme-slide4",
+    "title": "",
+    "section": ".theme-slide4",
+    "text": ".theme-slide4\nQuarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see https://quarto.org/docs/presentations/."
+  },
+  {
+    "objectID": "Persuasive Presentation - The Role of Women in the Workforce in Canada v1 copy.html#theme-slide5",
+    "href": "Persuasive Presentation - The Role of Women in the Workforce in Canada v1 copy.html#theme-slide5",
+    "title": "",
+    "section": ".theme-slide5",
+    "text": ".theme-slide5\nQuarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see https://quarto.org/docs/presentations/."
+  },
+  {
+    "objectID": "Persuasive Presentation - The Role of Women in the Workforce in Canada v1 copy.html#theme-slide6",
+    "href": "Persuasive Presentation - The Role of Women in the Workforce in Canada v1 copy.html#theme-slide6",
+    "title": "",
+    "section": ".theme-slide6",
+    "text": ".theme-slide6\nQuarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see https://quarto.org/docs/presentations/."
+  },
+  {
+    "objectID": "Persuasive Presentation - The Role of Women in the Workforce in Canada v1 copy.html#theme-slide7",
+    "href": "Persuasive Presentation - The Role of Women in the Workforce in Canada v1 copy.html#theme-slide7",
+    "title": "",
+    "section": ".theme-slide7",
+    "text": ".theme-slide7\nQuarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see https://quarto.org/docs/presentations/."
+  },
+  {
+    "objectID": "Persuasive Presentation - The Role of Women in the Workforce in Canada v1 copy.html#theme-slide8",
+    "href": "Persuasive Presentation - The Role of Women in the Workforce in Canada v1 copy.html#theme-slide8",
+    "title": "",
+    "section": ".theme-slide8",
+    "text": ".theme-slide8\nQuarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see https://quarto.org/docs/presentations/.\n\n\n\nhttps://github.com/EmilHvitfeldt/quarto-revealjs-earth"
+  },
+  {
+    "objectID": "Persuasive Presentation - The Role of Women in the Workforce in Canada v1.html#agendaoverview",
+    "href": "Persuasive Presentation - The Role of Women in the Workforce in Canada v1.html#agendaoverview",
+    "title": "The Role of Women in the Workforce in Canada",
+    "section": "Agenda/Overview",
+    "text": "Agenda/Overview\n\nKey topics:\n\nThe Gender Pay Gap\nUnderrepresentation in Leadership\nUnequal Division of Unpaid Labor\nAddressing Counter-Arguments\nRebuttals: Economic Benefits & Cultural Shifts\nThe Future: A Collective Effort\nReferences\nQ&A\n\n\n\nTo understand the scope of this issue, we will explore:\n\nThe realities of the Gender Pay Gap in Canada\nThe stark underrepresentation of women in leadership roles\nThe unequal burdens of unpaid labor women carry\nWe will address counter-arguments head-on and debunk harmful stereotypes\nFinally, we’ll look at actionable solutions and envision a future of true gender equality in Canada"
+  },
+  {
+    "objectID": "Persuasive Presentation - The Role of Women in the Workforce in Canada v1.html#introduction",
+    "href": "Persuasive Presentation - The Role of Women in the Workforce in Canada v1.html#introduction",
+    "title": "The Role of Women in the Workforce in Canada",
+    "section": "Introduction",
+    "text": "Introduction\n\n\n\n\n\nFigure 1:  The Gender Gap\n\n\n\n\nNote. The illustration effectively highlights the persistent disparity in wages between men and women in the workforce [Infographic]. From Lipman, J. (2015). Opinion | let’s expose the gender pay gap. The New York Times. https://www.nytimes.com/2015/08/13/opinion/lets-expose-the-gender-pay-gap.html © 2024 The New York Times Company.\n\n\n\n\n\n\nDid you know that in Canada today, even after decades of women surpassing men in educational achievements, women are still earning only a fraction of what their male counterparts earn for the same work? This isn’t just about equal pay, this is about a deeply rooted issue of gender inequality that affects us all.\nWhile Canadian women have made incredible strides in workforce participation since the mid-20th century, systemic barriers continue to hold them back. My goal today is to persuade you that achieving true gender equality in Canada requires a multifaceted approach to address these deeply ingrained issues and unlock the full potential of our workforce."
+  },
+  {
+    "objectID": "Persuasive Presentation - The Role of Women in the Workforce in Canada v1.html#the-gender-pay-gap",
+    "href": "Persuasive Presentation - The Role of Women in the Workforce in Canada v1.html#the-gender-pay-gap",
+    "title": "The Role of Women in the Workforce in Canada",
+    "section": "The Gender Pay Gap",
+    "text": "The Gender Pay Gap\n\n\n\nWomen earn less than men\nOccupational segregation lowers pay\nBias impacts pay for women\n\n\n\n\n\n\nNote. Data shown are for employees between the age of 25 and 54 [Infographic]. From Canada’s gender wage gap narrows: Women earn $4.13 less than men per hour - national | globalnews.ca. (2019). https://globalnews.ca/news/6001276/gender-wage-gap-women-canada/ ©Her Majesty the Queen in Right of Canada, as represented by the Minister of Industry, 2019.\n\n\n\n\n\nThe gender pay gap is the difference between what men and women earn for similar work. Despite progress, in 2018, Canadian women earned a shocking 13.3% less per hour than men. Think about that — for every dollar a man earns, a woman doing the same job earns only 87 cents.\nWhy? A major factor is occupational segregation, meaning women are often concentrated in lower-paying fields. This isn’t accidental. There’s a clear devaluation of work traditionally done by women. Research shows that when more women enter a field, the average salary for that profession actually goes down! For every 10% increase in women in a specialty, the median salary drops by over $8,000. This points to a deep-rooted bias we need to challenge."
+  },
+  {
+    "objectID": "Persuasive Presentation - The Role of Women in the Workforce in Canada v1.html#underrepresentation-in-leadership",
+    "href": "Persuasive Presentation - The Role of Women in the Workforce in Canada v1.html#underrepresentation-in-leadership",
+    "title": "The Role of Women in the Workforce in Canada",
+    "section": "Underrepresentation in Leadership",
+    "text": "Underrepresentation in Leadership\n\n\n\n\n\n\nNote. Numbers from Statistics Canada released in 2019 show 19.4 per cent of board of director positions are held by women in Canada [Photograph]. From Bennardo, M. (2019). Women hold less than 20. CBC News. https://www.cbc.ca/news/business/statistics-canada-women-corporate-boards-1.5125995 ©2024 CBC/Radio-Canada. All rights reserved.\n\n\n\n\n\nFew women lead major companies.\nDiverse leadership boosts profits.\nSupport women: mentor, sponsor, promote.\n\n\n\nThis isn’t just about paychecks; it’s about who gets a seat at the table. Despite their qualifications, women are significantly underrepresented in leadership positions. Yet, studies show that companies led by women actually outperform others, demonstrating that diverse leadership isn’t just ethical, it’s good for business.\nSo, what’s holding women back? Unconscious bias plays a big role. This can be as subtle as assuming a man is more assertive or a woman is less likely to take risks. This bias affects hiring, promotions, and even who gets mentored for leadership roles."
+  },
+  {
+    "objectID": "Persuasive Presentation - The Role of Women in the Workforce in Canada v1.html#unequal-division-of-unpaid-labor",
+    "href": "Persuasive Presentation - The Role of Women in the Workforce in Canada v1.html#unequal-division-of-unpaid-labor",
+    "title": "The Role of Women in the Workforce in Canada",
+    "section": "Unequal Division of Unpaid Labor",
+    "text": "Unequal Division of Unpaid Labor\n\n\n\n\n\n\nNote. Natalie Decker sits in her truck during practice for the NASCAR Gander Outdoor Truck Series World of Westgate Las Vegas 200 in Las Vegas Sept. 13, 2019 [Photograph]. From News, A. B. C. (n.d.). Female NASCAR drivers on the challenges in competing in the male-dominated sport. https://abcnews.go.com/Sports/female-nascar-drivers-challenges-competing-male-dominated-sport/story?id=82838424 © 2024 ABC News.\n\n\n\n\n\nUnpaid labor burdens women.\n“Second shift” hurts careers.\nShared responsibility is key.\n\n\n\nLet’s talk about the work that often goes unseen: unpaid labor. Women disproportionately shoulder the burden of housework and childcare. Even when both partners work full-time, studies show women are still doing the lion’s share at home.\nThis unequal division has a ripple effect. It limits women’s career progression, forcing many to reduce their hours or leave the workforce entirely. This contributes to the “motherhood penalty,” where mothers face significant career setbacks compared to fathers.\nNow, some might argue against these points. They might say addressing these issues is costly or that women aren’t as ambitious. Let’s examine these arguments."
+  },
+  {
+    "objectID": "Persuasive Presentation - The Role of Women in the Workforce in Canada v1.html#counter-arguments",
+    "href": "Persuasive Presentation - The Role of Women in the Workforce in Canada v1.html#counter-arguments",
+    "title": "The Role of Women in the Workforce in Canada",
+    "section": "Counter-Arguments",
+    "text": "Counter-Arguments\n\n\n\n\n\n\nNote. children playing and learning together in a vibrant, structured environment [Photograph]. From Belderbos, H. (2024). Achieving affordable child care in canada. https://www.openaccessgovernment.org/achieving-affordable-child-care-in-canada/179301/ © Adjacent Digital Politics Ltd.\n\n\n\n\n\nAffordable childcare boosts economies.\nEquality benefits businesses too.\nInvesting in families is crucial.\n\n\n\nA common argument is that policies like equitable parental leave or affordable childcare are too expensive. This short-sighted view ignores the economic benefits of women’s full participation in the workforce. Studies show investing in affordable childcare boosts the economy by increasing productivity and allowing more women to work.\nAnother argument relies on harmful stereotypes, suggesting women are less ambitious or lack leadership qualities. This simply isn’t true. Research consistently debunks this myth, showing women are just as interested in leadership roles but face greater obstacles throughout their careers."
+  },
+  {
+    "objectID": "Persuasive Presentation - The Role of Women in the Workforce in Canada v1.html#rebuttals-economic-benefits-debunking-stereotypes",
+    "href": "Persuasive Presentation - The Role of Women in the Workforce in Canada v1.html#rebuttals-economic-benefits-debunking-stereotypes",
+    "title": "The Role of Women in the Workforce in Canada",
+    "section": "Rebuttals: Economic Benefits & Debunking Stereotypes",
+    "text": "Rebuttals: Economic Benefits & Debunking Stereotypes\n\n\n\n\n\n\nNote. Professional women confidently engaging in the workplace [Photograph]. From Gourtsilidou, M. (2022). Top career barriers women face in technology sector. https://ceoworld.biz/2022/04/01/top-career-barriers-women-face-in-technology-sector/ © The CEOWORLD magazine LTD 2024. CEOWORLD and ‘CEOWORLD magazine’ are trademarks of The CEOWORLD magazine Ltd.\n\n\n\n\n\nData disproves “ambition gap” myth.\nWomen face more career barriers.\nEvaluate systems, not stereotypes."
+  },
+  {
+    "objectID": "Persuasive Presentation - The Role of Women in the Workforce in Canada v1.html#solutions-policy-changes-cultural-shifts",
+    "href": "Persuasive Presentation - The Role of Women in the Workforce in Canada v1.html#solutions-policy-changes-cultural-shifts",
+    "title": "The Role of Women in the Workforce in Canada",
+    "section": "Solutions: Policy Changes & Cultural Shifts",
+    "text": "Solutions: Policy Changes & Cultural Shifts\n\n\n\n\n\n\nNote. Members of the Voice of Women, Women’s Liberation Movement, New Feminists and Young Socialists demonstrated at Queen’s Park in April 1970, asking support for a bill to ensure that women get equal pay for equal work.From Heritage Matters - Women’s rights are human rights  The fight for an equal voice. (n.d.). https://www.heritage-matters.ca/articles/womens-rights-are-human-rights-the-fight-for-an-equal-voice © Ontario Heritage Trust, unless otherwise indicated..\n\n\n\n\n\nPolicies must support equality.\nChange requires cultural shifts.\nChallenge norms; dismantle bias.\n\n\n\nSo, how do we create real, lasting change? It requires both policy changes and cultural shifts. We need to advocate for:\n\nPay transparency measures to close the gender pay gap and ensure fair compensation.\nEquitable parental leave policies that support both parents and challenge traditional roles.\nAffordable childcare options to empower women to participate fully in the workforce."
+  },
+  {
+    "objectID": "Persuasive Presentation - The Role of Women in the Workforce in Canada v1.html#the-future-a-collective-effort",
+    "href": "Persuasive Presentation - The Role of Women in the Workforce in Canada v1.html#the-future-a-collective-effort",
+    "title": "The Role of Women in the Workforce in Canada",
+    "section": "The Future: A Collective Effort",
+    "text": "The Future: A Collective Effort\n\n\n\nGender equality benefits everyone.\nChallenge inequality; be an ally.\nCollective action creates change.\n\n\n\n\n\n\nNote. Young people interested in creating a positive difference in the world [Photograph]. From International day of the girl. (n.d.). https://plancanada.ca/get-involved/active-campaigns/international-day-of-the-girl © 2024 Plan International Canada Inc. Because I am a Girl, and Spread the Net names and associated logos are trademarks of Plan International Canada Inc.\n.\n\n\n\n\n\nAchieving gender equality isn’t just a women’s issue; it’s a societal imperative. It demands a collective effort from individuals, businesses, and policymakers to break down these barriers and create a Canada where everyone can thrive.\nI urge you to join this movement. Speak up against gender bias, challenge stereotypes, and support policies that promote equality. Together, we can create a Canada where every person, regardless of gender, has the opportunity to reach their full potential."
+  }
+]
